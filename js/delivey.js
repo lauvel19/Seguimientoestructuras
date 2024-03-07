@@ -67,4 +67,4 @@ if (tiporest>3 || tiporest<0){
             alert(`Medio de pago invalido`);
             alert(`Fin de la transaccion`);
         }    
-}
+} 
